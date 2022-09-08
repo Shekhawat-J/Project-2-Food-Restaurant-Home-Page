@@ -1,7 +1,7 @@
 # Food Restaurant Home Page
 
 # Live Link
-[Live Link](https://law-home-page-ui.netlify.app/)
+[Live Link](https://food-restaurant-ui.netlify.app/)
 
 [GitHub Link](https://github.com/Shekhawat-J/Project-2-Food-Restaurant-Home-Page)
 
